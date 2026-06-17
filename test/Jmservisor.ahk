@@ -103,5 +103,3 @@ if(A_Args[1]="custom"){
 	return
 }
 return
-
-# hh
